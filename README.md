@@ -47,6 +47,125 @@ The license granted by the development group to users based on this agreement is
 #### 2. Users shall not interfere with the normal provision of products and services by the development group, including but not limited to: attacking and invading the website server of the development group / overloading the website server; Crack and modify the product program provided by the development team; Attack, invade the server or server-side program of the development group or overload the server; Make, release, spread and use any form of crack program.
 ##### The user shall not: take advantage of the loopholes and bugs of the program to disrupt the normal operation of the product or spread the loopholes or bugs; Unreasonably interfere with or hinder others from using the products and services provided by the development team; Using the products of the development group in an abnormal or illegal way; Modify, translate, annotate, sort, compile and deduce the products of the development group; Take advantage of the possible technical defects or loopholes of this product to make profits for yourself and others in various forms or engage in other improper acts.
 
+## Article 8 interruption, suspension and termination of services
+#### 1. Suspension and termination of user services
+(1) if the user releases illegal information, seriously violates social morality, or violates other prohibitive provisions of the law, the development team shall immediately terminate the service provided to the user.
+(2) the development team has the right to terminate the service provided to the user if the user commits improper behavior when receiving the service of the development team. The specific circumstances of such improper behavior shall be clearly agreed in this agreement or belong to the prohibited behavior that should be terminated as clearly informed by the development team in advance. Otherwise, the development team shall not terminate the service provided to users.
+(3) the user has the right to suspend all or part of the services provided by the user group in violation of the agreement; The development team shall inform the users of the suspension measures and the suspension period. The suspension period shall be reasonable. When the suspension period expires, the development team shall resume the service to the users in time.
+(4) if the development team suspends or terminates the provision of some or all services to users in accordance with items (1), (2) and (3) of this paragraph, the development team shall bear the burden of proof.
+#### 2. Interruption, suspension and termination of product operation
+##### (1) for the normal operation of the product, the development team may suspend the service for some unexpected reasons. Please understand that the development team is obliged to try its best to limit the interruption time to the shortest time.
+###### Under any of the following circumstances, the development team has the right to terminate or interrupt all or part of the services provided by the products. The development team shall not be liable to the user or the third party for the inconvenience or damage caused thereby:
+1. The development team has the right to suspend the service for regular inspection or construction, updating software and hardware, etc., but the development team will complete the maintenance and updating as soon as possible;
+2. Sudden failure of software and hardware equipment and electronic communication equipment;
+3. Network provider line or other faults;
+4. In case of emergency, in accordance with the provisions of the law or for the personal safety of users and third parties;
+5. Third party reasons or other force majeure circumstances.
+##### (2) the development team reserves the right to terminate or partially terminate the provision of development team services if it deems it necessary, and will make an announcement before termination.
+No matter what reason terminates the service of the development team, the user shall take corresponding measures to deal with relevant matters by himself. The user shall not require the development team to bear compensation or compensation liability due to the complete termination of the services of the development team, including but not limited to the compensation required due to the fact that the products can no longer be used.
+## Article 9 types and definitions of punishment
+All penalties imposed by the development team are to maintain fairness, harmony and order. But the real order should come from everyone's habits. The development team sincerely hopes that one day the development team will no longer have to punish users to restrict their behavior.
+#### Unless otherwise agreed in this agreement, if you violate the provisions of this agreement, you may be subject to one or more of the following penalties:
+(1) Warning: warning is only an educational guidance for users who violate the rules. It is a way for normal management.
+(3) Temporary suspension of service: restrict the services of users who violate the rules and restrict their operations until the punishment expires or is cancelled.
+(4) Permanent termination of service: restrict the services of users who violate the rules, restrict their operations, and never release or release them.
+(5) Legal liability: if the player's misconduct causes damage to others or the development team or violates the current legal provisions, the violator shall bear the corresponding civil, administrative or criminal liabilities according to law.
+## Article 10 damages
+The development team has the right to recover all the damages caused by your own development team or the third party, but shall have the right to recover all the damages caused by your own development team.
+## Article 11 force majeure
+The development team shall not be liable for the losses caused by force majeure. Force majeure referred to in this agreement includes: natural disasters, changes in laws and regulations or government orders, causes unique to the characteristics of network services, such as failures of domestic and foreign basic telecom operators, computer, mobile equipment or Internet related technical defects, Internet coverage restrictions, computer, mobile equipment viruses, hacker attacks and other factors within the legal scope Objective situations that cannot be avoided and overcome.
+## Article 12 change of terms
+The development team has the right to modify the terms of this agreement when necessary. Please check the relevant contents regularly. If the user continues to use the services involved in this agreement, it shall be deemed to have agreed to the modification; If the user disagrees with the modification, it shall uninstall the products of the development group, terminate this Agreement and stop using the services of the development group.
+## Article 13 notice
+All notices sent by the development team to users can be transmitted in the form of announcements in social chat products, important pages of official websites or official forums, e-mail or regular phone calls, QQ, letters, etc. Meanwhile, the user hereby agrees that the development team can send business information to its email.
+## Article 14 intellectual property rights and authorization of content provided by users
+The development team respects intellectual property rights and pays attention to protecting the rights enjoyed by users. In the development group service, you may need to provide content to the development group by uploading, publishing and other means. In this case, you still enjoy the complete intellectual property rights of these contents.
+You expressly agree to translate, reproduce, reproduce, develop, and redistribute the foregoing content, and expressly agree not to use, reproduce, develop, and redistribute the foregoing content in the world.
+
+# futuresense.pub使用协议
+# 前言
+欢迎您选择享用由futuresense.pub开发组(下文亦称"开发组")制作并提供的产品！
+
+我们将遵循国家的相关规定，努力为用户提供更优质的服务。
+# 重要须知
+### 一、用户在使用提供由开发组提供的产品(包括但不限于脚本，网站，程序，虚拟商品。下文亦称为"产品"）及相关服务（"相关服务"下文亦称为"服务"）之前，请仔细阅读本《futuresense.pub使用协议》（下文亦称为"本协议"）中各条款。开发组特别提醒用户认真阅读本协议的全部条款，特别是其中免除或者限制开发组责任的条款（该等条款通常含有"不负任何责任"、"无义务"、"不保证"等词汇）、限制用户权利的条款（该等条款通常含有"不得"、"不应"、"无权"等词汇）、法律适用和争议解决条款，这些条款应在中国法律所允许的范围内最大程度地适用。
+
+### 二、如用户不同意本协议的任何条款，则不得安装、使用开发组产品，不得享用开发组服务。用户一旦安装开发组产品，或者注册、开始使用及/或继续使用开发组服务，即视为用户同意并已经接受本协议中全部条款。此后您不得以未阅读/未同意本协议内容或类似理由提出任何形式的抗辩。
+
+### 三、用户有权在接受开发组服务期间，监督开发组及开发组的工作人员是否按照开发组所公布的标准向用户提供服务，也可以随时向开发组提出与开发组的产品和服务有关的意见和建议。
+
+### 四、如果用户未满18周岁的，需在监护人的陪同下阅读本协议，并在取得监护人对用户享用开发组提供服务的行为，以及对本协议全部条款的同意之后，方可享用开发组提供的服务。
+
+## 第一条 协议签署方
+  ### 本协议在如下双方之间签署：
+
+  #### 1、开发组。即futuresense.pub开发组。向您提供服务。
+
+  #### 2、您，又称"玩家"或"用户"。即通过开发组提供的合法途径，获得开发组非商业使用性质之授权，从而安装、使用开发组产品或接受开发组服务的自然人。
+
+## 第二条 知识产权声明
+  #### 1、开发组依法享有《futuresense.pub》即《futuresense》产品的一切合法权益（包括但不限于其中涉及的计算机产品著作权、美术作品著作权和专利权等知识产权，运营该等开发组产品的权利等），或已从合法权利人处取得合法授权，从而有权为用户提供开发组产品及开发组服务，产品标识于醒目位置。
+
+  #### 2、开发组服务所体现的"futuresense"、"future yaw"、"future"的文字、LOGO（图形），以及在具体服务中使用的用以标识服务名称与来源的文字、LOGO（图形）等（包括但不限于开发组服务的名称、LOGO、ICON，开发组产品开发者的名称、LOGO、ICON等），属于开发组及其合作组织。
+
+  #### 3、开发组服务可能涉及第三方知识产权，如该等第三方对您在开发组服务中使用该等知识产权有要求的，开发组将以适当方式向您告知该等要求，您应当遵守该等要求。
+
+  #### 4、本协议未明确授予您的权利均由开发组保留。
+
+## 第三条 开发组产品使用许可及限制
+#### 1、在用户同意接受本协议全部条款的前提下，开发组同意授予用户非商业使用性质的、可撤销的、可变更的、非专有的、不可转让和不可转授权的使用本开发组的产品及开发组服务的权利。用户可在授权范围内将本开发组的产品安装在供个人使用的移动智能设备或主机，且非网络服务器或公用设备上，并以开发组指定的方式运行本开发组的产品的一份副本并享受开发组提供的服务。
+
+  开发组基于本协议授予用户的许可是针对个人使用的许可。如用户有需要在个人使用的范围以外使用开发组产品及开发组服务或者将开发组产品与开发组服务用于任何商业用途，则用户应与开发组联系并获得开发组另行授权。任何未经开发组许可的安装、使用、访问、显示、运行、商业使用等行为均属对开发组的侵权。
+
+#### 2、除非本协议另有约定，否则，未经开发组事先书面同意，用户不得实施下列行为（无论是营利的还是非营利的）：
+
+  (1)复制、翻录、反编译（de-compile）、反汇编（disassemble）、传播和陈列开发组产品的程序、使用手册和其它图文音像资料的全部或部分内容，或对开发组产品的任何功能或程序进行反向工程（reverse engineering）。
+
+  (2)安装或使用任何可进行反编译、反汇编、反向工程的工具或程序在使用开发组产品的智能设备或主机上。
+  
+  (3)未经允许的出租、销售开发组产品或者利用开发组产品从事任何营利行为。
+
+  (4)修改或遮盖开发组产品程序、图像、动画、包装和手册等内容上的服务名称、标志、商标（或）版权信息、其他知识产权声明等内容。
+
+  (5)其它违反商标法、著作权法、计算机产品保护条例和相关法律法规、国际条约的行为。
+
+## 第四条 用户信息保护与收集
+  #### 1、开发组要求用户提供与其个人身份有关的信息资料时，应当事先以明确而易见的方式向用户公开其隐私权保护政策和个人信息利用政策，并采取必要措施保护用户的个人信息资料的安全。
+
+  #### 未经用户许可开发组不得向任何第三方提供、公开或共享用户注册资料中的姓名、个人有效身份证件号码、联系方式、家庭住址等个人身份信息，但下列情况除外：
+
+  ⑴用户或用户监护人授权开发组披露的；
+
+  ⑵有关法律要求开发组披露的；
+
+  ⑶司法机关或行政机关基于法定程序要求开发组提供的；
+
+  ⑷开发组为了维护自己合法权益而向用户提起诉讼或者仲裁时；
+
+  ⑸应用户监护人的合法要求而提供用户个人身份信息时。
+
+  #### 2、除前述个人信息资料之外，您同意并授权开发组基于安全、用户体验优化等考虑而收集您的其他必要信息，但开发组仅可为履行本协议之目的收集与利用该等信息。
+
+## 第五条 开发组的义务
+  #### 1、开发组同意通过移动互联网络，根据本协议约定，为用户提供开发组服务。
+
+## 第六条 用户的义务
+  #### 1、用户应自行配备上网的所需设备，包括但不限于移动智能设备(包括但不限于手机、平板电脑)、无线路由器或其他必备上网装置。
+
+  #### 2、用户自行负担上网所支付的与此服务相关的电信费用、网络使用等费用。
+
+  #### 3、鉴于数字商品的特殊性，一旦用户已经向开发组支付用于获取开发组服务的费用并已享受到开发组提供的服务，用户不得以任何理由要求开发组退还相关款项，包括但不限于因不了解如何使用产品等而要求的退款。
+
+  #### 4、遵守本协议的约定、其他相关规则和制度的规定(包括但不限于用户点击同意的服务条款，以及开发组在官方网站公布的规则等)；遵守中华人民共和国相关法律法规(如果用户是中华人民共和国境外的使用者，还应遵守所属国家或地区的法律法规)。
+
+## 第七条 不正当行为
+
+  #### 1、用户不得通过不正当的手段或其他不公平的手段使用开发组产品、开发组服务。
+
+  #### 2、用户不得干扰开发组正常地提供产品和服务，包括但不限于：攻击、侵入开发组的网站服务器/使网站服务器过载；破解、修改开发组提供的开发组产品程序；攻击、侵入开发组的服务器或服务器端程序或使服务器过载；制作、发布、传播、使用任何形式的破解程序。
+
+用户不得：利用程序的漏洞和错误(Bug)破坏产品的正常进行或传播该漏洞或错误(Bug)；不合理地干扰或阻碍他人使用开发组所提供的产品和服务；通过异常或者非法的方式使用开发组的产品；修改、翻译、注释、整理、汇编、演绎开发组产品；利用本产品可能存在的技术缺陷或漏洞而以各种形式为自己及他人牟利或者从事其他不正当行为等。
+
 ## 第八条 服务的中断、中止、终止
   #### 1、对用户服务的中止与终止
 
